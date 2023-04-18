@@ -1,5 +1,7 @@
+
 .header{
-    color: red;
+    color: #2e5266;
+
 }
 
 .subheader{
@@ -8,13 +10,35 @@
 }
 
 .navbar{
-    background:black;
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-bottom: 5px;
+    font-size: 20px;
+    background:#E2C044;
+    font-family:serif;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border: solid 1px black;
+
 }
 
 .nav-option{
-    color: gray;
-    margin-right:5px;
+    color: #2E5266;
+    margin:5px;
+    text-decoration: none;
+}
+
+.background{
+    background: #d3d0cb;
+}
+
+.image{
+    width: 170px;
+    height: 250px;
+}
+
+.container{
+    background: #9FB1bc;
+    padding: 5px;
+    border: solid 1px #E2C044;
+    margin: 5px;
+    margin-top: 10px;
 }
